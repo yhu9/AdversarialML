@@ -35,7 +35,7 @@ print("art %s"%(art.__version__))
 # run auto attack test
 if __name__ == '__main__':
     # PREDEFINED EPSILON
-    epsilon = 32/255
+    epsilon = 8/255
     N = 64
 
     # define data

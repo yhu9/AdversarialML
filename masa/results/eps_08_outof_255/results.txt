@@ -1,0 +1,12 @@
+torchattacks 2.14.1
+foolbox 3.3.1
+art 1.6.1
+Files already downloaded and verified
+- True Acc: 0.953125 (12 ms)
+- AutoAttack (standard)
+- Robust Acc: 0.640625 (1974 ms)
+- PGD (standard)
+- Robust Acc: 0.5 (1048 ms)
+- CW (standard)
+- Robust Acc: 0.953125 (9026 ms)
+
